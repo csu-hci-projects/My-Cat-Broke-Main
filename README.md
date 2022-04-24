@@ -1,1 +1,12 @@
 # My-Cat-Broke-Main
+
+INTRUCTIONS:
+
+1) Download the contents of the "Project Folder" zipped folder.
+2) Use the "HCI Prototype" exe file within that folder.
+3) Intructions will be provided on screen when it comes to using the application.
+
+SUMMARY: My prototype is part of testing how much a user working on a task is distracted by notifications. 
+
+NOTE: When you enter answers into the input field, it does not show the number you typed.  This is something that I am working on, however, THE PROTOTYPE DOES WORK!
+This is a minor issue that will be fixed.  Please enter your answers as usual. 
